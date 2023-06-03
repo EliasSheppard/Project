@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-
-![Universe](./_images/logo.png)
-</div>
 
 ## Introduction
 This project is a Java-based application built with the Javalin framework. Its primary goal is to provide a platform for users to create their own world by sharing their thoughts, experiences, and impressions with their audience. With this blog, users can share their ideas with the world and connect with others who share similar interests.
